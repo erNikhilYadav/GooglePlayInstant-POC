@@ -2,7 +2,7 @@ Google Play Instant SDK POC(Instant Apps) Just for fun
 
 Doc Ref:-
 1. https://developer.android.com/topic/google-play-instant/overview
-2. Doc Ref: https://developer.android.com/training/app-links
+2. https://developer.android.com/training/app-links
 
 Link to launch the instant app once installed on your physical device/emulator.
 https://instant-app-poc.com/
